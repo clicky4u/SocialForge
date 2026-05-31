@@ -160,3 +160,7 @@ This project was created for personal learning, experimentation, and software de
 ```bash
 pip install -r requirements.txt
 python SocialForge.py
+
+<p align="center">
+  <img src="screenshots/workflow.png" width="100%">
+</p>
