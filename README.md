@@ -1,5 +1,7 @@
 # SocialForge
-
+<p align="center">
+  <img src="screenshots/workflow.png" width="100%">
+</p>
 SocialForge is a Python desktop application developed by Chen Lisal using PyQt5 and Selenium.
 
 The primary purpose of this project is to automate Facebook account creation workflows, manage account information, verify account status, and organize generated account data through a centralized desktop interface.
@@ -161,6 +163,3 @@ This project was created for personal learning, experimentation, and software de
 pip install -r requirements.txt
 python SocialForge.py
 
-<p align="center">
-  <img src="screenshots/workflow.png" width="100%">
-</p>
