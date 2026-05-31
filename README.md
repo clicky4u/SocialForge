@@ -1,12 +1,44 @@
 # SocialForge
+
 <p align="center">
   <img src="screenshots/workflow.png" width="100%">
 </p>
+
 SocialForge is a Python desktop application developed by Chen Lisal using PyQt5 and Selenium.
 
 The primary purpose of this project is to automate Facebook account creation workflows, manage account information, verify account status, and organize generated account data through a centralized desktop interface.
 
 This project was built as a personal learning project to improve skills in Python programming, desktop application development, browser automation, multi-threading, data management, and software architecture.
+
+---
+
+## Screenshots
+
+### Automation Workflow
+
+<p align="center">
+  <img src="screenshots/workflow.png" width="90%">
+</p>
+
+### Config & Accounts
+
+<p align="center">
+  <img src="screenshots/dashboard.png" width="90%">
+</p>
+
+### Generate Data
+
+<p align="center">
+  <img src="screenshots/generate-data.png" width="90%">
+</p>
+
+### Data Management
+
+<p align="center">
+  <img src="screenshots/data-management.png" width="90%">
+</p>
+
+---
 
 ## Features
 
@@ -61,6 +93,8 @@ This project was built as a personal learning project to improve skills in Pytho
 * Multi-tab management system
 * Statistics dashboard
 
+---
+
 ## Technologies Used
 
 * Python
@@ -71,6 +105,8 @@ This project was built as a personal learning project to improve skills in Pytho
 * IMAP
 * CSV Processing
 * Multi-threading
+
+---
 
 ## Project Workflow
 
@@ -112,6 +148,8 @@ Manage Results
 
 Export Data to CSV
 
+---
+
 ## Learning Objectives
 
 This project was created to learn and practice:
@@ -125,41 +163,23 @@ This project was created to learn and practice:
 * Web automation workflows
 * Software architecture
 
-## Author
-
-Chen Lisal
-
-## Disclaimer
-
-This project was created for personal learning, experimentation, and software development practice.
-
-
-## Features
-
-- PyQt5 desktop GUI
-- Browser automation using Selenium
-- Multi-threaded processing
-- Random data generation
-- Account status checking
-- CSV import and export
-- Search and filter records
-- Data management dashboard
-- Dark-themed interface
-
-## Technologies Used
-
-- Python
-- PyQt5
-- Selenium WebDriver
-- Requests
-- BeautifulSoup4
-- CSV
-- Multi-threading
-
+---
 
 ## Installation
 
 ```bash
 pip install -r requirements.txt
 python SocialForge.py
+```
 
+---
+
+## Author
+
+Chen Lisal
+
+---
+
+## Disclaimer
+
+This project was created for personal learning, experimentation, and software development practice.
