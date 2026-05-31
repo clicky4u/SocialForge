@@ -178,6 +178,15 @@ python SocialForge.py
 
 Chen Lisal
 
+## Support & Contact
+
+If you have any questions, suggestions, bug reports, collaboration requests, or work opportunities, feel free to contact me.
+
+**Telegram:** @chen_lisal
+**Link:** https://t.me/chen_lisal
+
+I am always open to feedback, discussions, and development opportunities.
+
 ---
 
 ## Disclaimer
