@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.log
+.env
+venv/
+build/
+dist/
+*.csv
+*.txt
+cookies/
+sessions/
+data/
+driver/
